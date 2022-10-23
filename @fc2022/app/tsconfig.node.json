@@ -1,0 +1,4 @@
+{
+  "extends": "@fc2022/tsconfig/tsconfig.node.json",
+  "include": ["*"]
+}

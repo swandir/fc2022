@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    // Modules
+    "module": "ESNext",
+
+    // Emit
+    "preserveValueImports": true,
+
+    // Language and Environment
+    "jsx": "react-jsx",
+    "target": "ESNext"
+  }
+}

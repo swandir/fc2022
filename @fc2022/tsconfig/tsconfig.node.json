@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    // Modules
+    "module": "CommonJS",
+    "types": ["node"],
+
+    // Language and Environment
+    "target": "ES2020"
+  }
+}

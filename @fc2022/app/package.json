@@ -1,0 +1,21 @@
+{
+  "name": "@fc2022/app",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@fc2022/library": "workspace:*",
+    "@fc2022/tsconfig": "workspace:*",
+    "@types/node": "^18",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^2.1.0",
+    "vite": "^3.1.8"
+  }
+}

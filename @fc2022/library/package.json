@@ -1,0 +1,14 @@
+{
+  "name": "@fc2022/library",
+  "exports": "./src/index.ts",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@fc2022/tsconfig": "workspace:*",
+    "@types/react": "^18",
+    "@types/react-dom": "^18"
+  }
+}

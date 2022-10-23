@@ -1,0 +1,5 @@
+{
+  "extends": "@fc2022/tsconfig/tsconfig.node.json",
+  "references": [{ "path": "@fc2022/app" }, { "path": "@fc2022/library" }],
+  "files": [".eslintrc.js"]
+}
